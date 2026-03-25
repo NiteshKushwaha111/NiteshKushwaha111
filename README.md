@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Nitesh&fontSize=50&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular,%20Next.js%20%26%20React.js&descAlignY=61&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I%27m%20Nitesh&fontSize=50&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular,%20Next.js%20and%20React.js&descAlignY=61&descAlign=50" alt="Header" />
 </div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/nitesh-kushwaha-dev">
