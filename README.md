@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Nitesh&fontSize=50&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular,%20Next.js%20&%20React.js&descAlignY=61&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Nitesh&fontSize=50&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular,%20Next.js%20%26%20React.js&descAlignY=61&descAlign=50" />
 </div>
 
 <p align="center">
@@ -14,40 +14,44 @@
   </a>
 </p>
 
----
+<br>
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <br>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" />
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=rxjs" title="RxJS" alt="RxJS" />
+    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=webpack" title="Webpack" alt="Webpack" />
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+  </p>
+</div>
+
+<br>
 
 ### 👨‍💻 About Me
 
-- 🚀 I'm currently working as a **Frontend Developer at Soluzione IT Services**.
-- 💡 I specialize in building **high-performance, scalable enterprise applications**, dynamic dashboards, and complex reactive forms.
-- 📈 I love optimizing performance. I recently migrated an enterprise app to Next.js, improving the Lighthouse score by **150%** through SSR optimization.
-- ⚡ I architect scalable component libraries that reduce development time by 25-30%.
-- 🌱 I'm currently exploring more about **Advanced AI Integrations & Modern Web Architectures**.
-- 💬 Ask me about **Angular, React, Next.js, or complex RBAC systems**.
+> **"I learn whatever the project needs. Basically, a professional problem solver with a keyboard."**
 
----
+- 🚀 Currently a **Frontend Developer at Soluzione IT Services**.
+- 💡 Specializing in **scalable enterprise applications**, dynamic dashboards, and complex reactive forms.
+- 📈 Obsessed with performance: Recently achieved a **150% Lighthouse score boost** by migrating an enterprise app to Next.js (SSR).
+- ⚡ Architecting component libraries that cut development time by **25-30%**.
+- 🌱 Exploring **Modern Web Architectures** & AI integrations.
+- 💬 Happy to chat about `Angular`, `React`, `Next.js`, and `RBAC systems`.
 
-### 🛠️ Tech Stack
-
-**Languages & Core:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Libraries & Frameworks:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
----
+<br>
 
 ### 🚀 Featured Platforms
 
@@ -59,21 +63,6 @@
 | **[Boarding Schools of India](https://www.boardingschoolsofindia.com/)** | Discovery platform serving 500+ schools with complex filtering. | `Angular`, `RxJS`, `SSR` |
 
 ---
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshkushwaha111&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Nitesh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkushwaha111&theme=radical&hide_border=true&background=0D1117" alt="Nitesh's GitHub streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkushwaha111&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
----
-<div align="center">
-  <i>"I learn whatever the project needs. Basically, a professional problem solver with a keyboard."</i>
+  <i>"I build end-to-end products from idea to production."</i>
 </div>
