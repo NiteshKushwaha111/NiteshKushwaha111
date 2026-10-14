@@ -1,3 +1,4 @@
+```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I%27m%20Nitesh&fontSize=50&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Angular,%20Next.js%20and%20React.js&descAlignY=61&descAlign=50" alt="Header" />
 </div>
@@ -21,7 +22,7 @@
   <h3>🛠️ Tech Stack</h3>
   <br>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,angular,nextjs,react,html,css" title="Frontend & Languages" alt="Frontend & Languages" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css" title="Frontend & Languages" alt="Frontend & Languages" />
     <br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux,rxjs" title="Backend, State & APIs" alt="Backend, State & APIs" />
     <br><br>
@@ -35,13 +36,14 @@
 
 > **"I learn whatever the project needs. Basically, a professional problem solver with a keyboard."**
 
-- 🚀 Currently a **Full-Stack & Frontend Engineer at Soluzione IT Services** (3+ years experience).
-- 💡 Specializing in **scalable enterprise applications**, dynamic dashboards, complex reactive form engines, and granular RBAC systems.
-- 📈 Obsessed with performance: Achieved a **167% Lighthouse score boost** (30 → 80+) by migrating enterprise modules to Next.js (SSR).
-- ⚡ Architecting component libraries that cut development time by **25%**.
-- 🛠️ Full-Stack MEAN capability: **Node.js, Express.js, MongoDB, Mongoose & RESTful API design**.
-- 🌱 Exploring **Modern Web Architectures** (React Server Components) & practical AI integrations.
-- 💬 Happy to chat about `Angular`, `React`, `Next.js`, `Redux`, `RxJS`, and `RBAC systems`.
+- 🚀 **Full Stack JavaScript Developer** with 3+ years of software development experience.
+- 💡 Experienced in building enterprise applications, dynamic dashboards, complex forms, and role-based access control (RBAC).
+- 📈 Focused on performance optimization, SSR, reusable components, and maintainable application architecture.
+- ⚡ Built 30+ reusable Angular components, pipes, and directives, contributing to a 25% reduction in frontend development time.
+- 🛠️ Hands-on experience with **React.js, Next.js, Node.js, Express.js, MongoDB, Mongoose, and REST API development**.
+- 🌱 Exploring modern web architectures, React Server Components, and practical AI integrations.
+- 💬 Happy to discuss `React`, `Next.js`, `Node.js`, `Angular`, `Redux`, `RxJS`, and `RBAC`.
+- ✅ **Available to join immediately.**
 
 <br>
 
@@ -49,10 +51,10 @@
 
 | Metric | Achievement | Impact |
 | :--- | :--- | :--- |
-| **Lighthouse Score** | `30 → 80+` | **167% increase** via Next.js SSR migration |
-| **Data Entry Errors** | `60% reduction` | Built 60+ dynamic forms with nested FormArrays |
-| **Development Speed** | `25% faster` | Shipped 30+ reusable component libraries |
-| **Form Completion** | `40% faster` | Engineered AccredOne's workflow engine |
+| **Lighthouse Score** | `30 → 80+` | Improved performance through Next.js migration and optimization |
+| **Data Entry Errors** | `60% reduction` | Streamlined data entry through dynamic forms and validation |
+| **Development Speed** | `25% faster` | Reusable Angular components, pipes, and directives |
+| **Form Completion** | `40% faster` | Optimized accreditation workflow experience |
 
 <br>
 
@@ -60,17 +62,18 @@
 
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :--- |
-| **[Premium Cane Furniture](https://canefurnituredor.com/)** | High-performance e-commerce platform with 90+ Lighthouse scores. | `Next.js`, `Tailwind CSS`, `Framer Motion` | [🌐 Live Site](https://canefurnituredor.com/) |
-| **[Skybound Construction](https://niteshkushwaha111.github.io/CONSTRUCTION-SITE/)** | Corporate website with custom animated carousels & responsive layout. | `React.js`, `Tailwind CSS`, `Animations` | [🌐 Live Site](https://niteshkushwaha111.github.io/CONSTRUCTION-SITE/) |
-| **[Boarding Schools of India](https://www.boardingschoolsofindia.com/)** | Education discovery platform serving 500+ schools with complex filtering. | `Angular`, `RxJS`, `Angular Universal SSR` | [🌐 Live Site](https://www.boardingschoolsofindia.com/) |
-| **AccredOne** | Enterprise accreditation system with scalable RBAC & workflow engine. | `React.js`, `TypeScript`, `RBAC`, `WCAG` | 🔒 Enterprise Platform |
-| **Ensurite** | Insurance cloud platform with 20+ complex insurance forms & analytics. | `Angular`, `Chart.js`, `FormArrays`, `Material` | 🔒 Enterprise Platform |
-| **JAZ-ANZ** | International accreditation system with multi-step nested FormArrays. | `Angular`, `RBAC`, `Nested Forms`, `PrimeNG` | 🔒 Enterprise Platform |
+| **[CaneVerse](https://cane-verse.vercel.app/)** | Responsive handcrafted cane furniture showcase with product collections, pricing, currency selection, and inquiry sections. | `Angular`, `TypeScript`, `Tailwind CSS` | [🌐 Live Demo](https://cane-verse.vercel.app/) |
+| **[Skybound Construction](https://construction-site-gules.vercel.app/)** | Modern construction website featuring service pages, project showcases, and an interactive cost estimator. | `React.js`, `Tailwind CSS` | [🌐 Live Demo](https://construction-site-gules.vercel.app/) |
+| **[Boarding Schools of India](https://www.boardingschoolsofindia.com/)** | School discovery platform with listings, filtering, and administrative workflows. | `Angular`, `Next.js`, `TypeScript`, `REST APIs` | [🌐 Live Site](https://www.boardingschoolsofindia.com/) |
+| **AccredOne** | Enterprise accreditation workflows with dynamic forms, performance optimization, and role-based permissions. | `React.js`, `TypeScript`, `Redux Toolkit`, `RBAC` | 🔒 Enterprise Platform |
+| **Ensurite** | Insurance platform featuring complex forms, data-driven interfaces, and analytics. | `Angular`, `Chart.js`, `Reactive Forms` | 🔒 Enterprise Platform |
+| **JAZ-ANZ** | International accreditation application with structured state management and nested form workflows. | `Angular`, `RxJS`, `NgRx`, `PrimeNG` | 🔒 Enterprise Platform |
 
 <br>
 
 ---
 
 <div align="center">
-  <i>"I build end-to-end products from idea to production — and currently open to new opportunities."</i>
+  <i>"I build end-to-end web experiences and am currently open to new opportunities."</i>
 </div>
+```
